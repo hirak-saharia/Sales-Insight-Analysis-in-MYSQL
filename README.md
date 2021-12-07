@@ -1,8 +1,8 @@
-**# Sales-Insight-Analysis-in-MYSQL
+  **Sales-Insight-Analysis-in-MYSQL**
 
-SQL database dump is in db_dump.sql file under the Sales-Insight-Analysis-in-MYSQL
+ **SQL database dump is in db_dump.sql file under the Sales-Insight-Analysis-in-MYSQL**
 
-Queries perforemed :
+ **Queries perforemed :**
 
 1. Show all customer records
 
