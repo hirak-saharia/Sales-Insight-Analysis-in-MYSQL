@@ -62,3 +62,10 @@ OR
 
     
 		SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020 and transactions.market_code="Mark001";**
+
+  **Data Analysis Using Power BI**
+   
+   We see that the column "sales_amount" has two different types of Currency, such as INR and USD, so we need to get all the amount detials in INR and we use Conditional column add by given below formula: Note: Under Column, "norm_amount" changes
+    
+     = Table.AddColumn(#"Filtered Rows", "norm_amount", each if [currency] = "USD" or [currency] ="USD#(cr)" then [sales_amount]*75 else [sales_amount], type any)
+    1. Formula to create norm_amount column
