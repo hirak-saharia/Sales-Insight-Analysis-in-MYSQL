@@ -3,13 +3,20 @@ We can behave as internal or External Stakeholder to give feedback.
 
    Simple visual display of the most important information that decision makers need to help them achieve objective.
 
-   There are thre  Dashborad analysis has been performed in order to acquire maximum inside of the Sales Data.
+   There are below three Dashborad analysis has been performed in order to acquire maximum inside of the Sales Data.
    
-   1. Key Insight
-   2. Profit Analysis
-   3. Performance insight by KPI dashborad
+   **1. Dahboard on Key Insight**     
+     ![Screenshot (132)](https://user-images.githubusercontent.com/64422300/146151888-c760f603-e1fb-40b4-acdc-3561637691b3.png)
+
+   **3. Dashboard on Profit Analysis**
+     
+   ![Screenshot (131)](https://user-images.githubusercontent.com/64422300/146151937-36064ac6-daed-403c-b0a3-4710e0405dd2.png)
+
+   **5. Dashboard on Performance insight using KPI matrics**
    
-   To increase Sales growth, Sales Director need to look into these areas.............
+   ![Screenshot (130)](https://user-images.githubusercontent.com/64422300/146151973-d8b98e8f-248f-4907-ac7e-73c7d2c4f760.png)
+
+   **To increase Sales growth, Sales Director need to look into these areas.............
     
        >>>> Revenue by Zone
        >>>> Sales Quantity by Zone
